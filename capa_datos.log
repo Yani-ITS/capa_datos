@@ -1,0 +1,644 @@
+07:42:41 PM: DEBUG [conexion.py:32] Creación pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x7fb3d0f1beb0>
+07:42:41 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7fb3cf41ca40; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+07:43:39 PM: DEBUG [conexion.py:32] Creación pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x7f5c53edf250>
+07:43:39 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7f5c540afa40; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+08:26:43 PM: DEBUG [cursor_pool.py:11] Inicio de with método __enter__
+08:26:43 PM: DEBUG [conexion.py:32] Creación pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x7f2be3155f70>
+08:26:43 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7f2be15f4a40; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+08:26:43 PM: DEBUG [cursor_pool.py:36] Listado de personas
+08:26:43 PM: DEBUG [cursor_pool.py:37] [(1, 'capso', 'Alan', 'Haedo', 'brufaus', 'haedoala@gmail.com', 'usuario')]
+08:26:43 PM: DEBUG [cursor_pool.py:18] Se ejecuta método __exit__()
+08:26:43 PM: DEBUG [cursor_pool.py:25] Commit de la transacción
+08:26:43 PM: DEBUG [conexion.py:51] Regresamos la conexion al pool: <connection object at 0x7f2be15f4a40; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+08:30:22 PM: DEBUG [cursor_pool.py:11] Inicio de with método __enter__
+08:30:22 PM: DEBUG [conexion.py:32] Creación pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x7f517444df70>
+08:30:22 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7f51728eba40; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+08:30:22 PM: DEBUG [cursor_pool.py:36] Listado de personas
+08:30:22 PM: DEBUG [cursor_pool.py:37] [(1, 'capso', 'Alan', 'Haedo', 'brufaus', 'haedoala@gmail.com', 'usuario')]
+08:30:22 PM: DEBUG [cursor_pool.py:18] Se ejecuta método __exit__()
+08:30:22 PM: DEBUG [cursor_pool.py:25] Commit de la transacción
+08:30:22 PM: DEBUG [conexion.py:51] Regresamos la conexion al pool: <connection object at 0x7f51728eba40; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+08:30:22 PM: DEBUG [conexion.py:52] Estado del pool: <psycopg2.pool.SimpleConnectionPool object at 0x7f517444df70>
+08:30:51 PM: DEBUG [conexion.py:32] Creación pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x7f319095deb0>
+08:30:51 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7f318ee5ea40; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+08:50:13 PM: DEBUG [conexion.py:32] Creación pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x7f28e56c4a90>
+08:50:13 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7f28e591fa40; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+08:50:46 PM: DEBUG [conexion.py:32] Creación pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x7fc6aa3499d0>
+08:50:46 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7fc6aa5a5a40; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+08:50:46 PM: DEBUG [cursor_pool.py:11] Inicio de with método __enter__
+08:50:47 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7fc6aa5a5b80; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+08:50:47 PM: DEBUG [cursor_pool.py:18] Se ejecuta método __exit__()
+08:50:47 PM: DEBUG [cursor_pool.py:22] Ocurrió una excepción: 'Usuarios' object has no attribute 'contrsenia'
+08:50:47 PM: DEBUG [conexion.py:51] Regresamos la conexion al pool: <connection object at 0x7fc6aa5a5b80; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+08:50:47 PM: DEBUG [conexion.py:52] Estado del pool: <psycopg2.pool.SimpleConnectionPool object at 0x7fc6aa3499d0>
+08:51:22 PM: DEBUG [conexion.py:32] Creación pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x7f2f21ee69d0>
+08:51:22 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7f2f22142a40; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+08:51:22 PM: DEBUG [cursor_pool.py:11] Inicio de with método __enter__
+08:51:22 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7f2f22142b80; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+08:51:22 PM: DEBUG [usuarios_dao.py:35] Usuario insertado: 
+            Id Usuario: 2, Username: loki, Nombre: Pedro,
+            Apellido: Najera, Email: pnajera@mail.com
+        
+08:51:22 PM: DEBUG [cursor_pool.py:18] Se ejecuta método __exit__()
+08:51:22 PM: DEBUG [cursor_pool.py:25] Commit de la transacción
+08:51:22 PM: DEBUG [conexion.py:51] Regresamos la conexion al pool: <connection object at 0x7f2f22142b80; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+08:51:22 PM: DEBUG [conexion.py:52] Estado del pool: <psycopg2.pool.SimpleConnectionPool object at 0x7f2f21ee69d0>
+08:51:22 PM: DEBUG [usuarios_dao.py:62] Usuarios insertados: 1
+09:01:03 PM: DEBUG [conexion.py:32] Creación pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x7f409dd63a00>
+09:01:03 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7f409c202a40; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+09:01:03 PM: DEBUG [cursor_pool.py:11] Inicio de with método __enter__
+09:01:03 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7f409c202b80; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+09:01:03 PM: DEBUG [cursor_pool.py:18] Se ejecuta método __exit__()
+09:01:03 PM: DEBUG [cursor_pool.py:22] Ocurrió una excepción: 'Usuarios' object has no attribute 'append'
+09:01:03 PM: DEBUG [conexion.py:51] Regresamos la conexion al pool: <connection object at 0x7f409c202b80; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+09:01:03 PM: DEBUG [conexion.py:52] Estado del pool: <psycopg2.pool.SimpleConnectionPool object at 0x7f409dd63a00>
+09:04:15 PM: DEBUG [conexion.py:32] Creación pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x7fdf4a2d2af0>
+09:04:15 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7fdf487d3a40; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+09:04:15 PM: DEBUG [cursor_pool.py:11] Inicio de with método __enter__
+09:04:15 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7fdf487d3b80; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+09:04:15 PM: DEBUG [cursor_pool.py:18] Se ejecuta método __exit__()
+09:04:15 PM: DEBUG [cursor_pool.py:22] Ocurrió una excepción: 'Usuarios' object has no attribute 'append'
+09:04:15 PM: DEBUG [conexion.py:51] Regresamos la conexion al pool: <connection object at 0x7fdf487d3b80; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+09:04:15 PM: DEBUG [conexion.py:52] Estado del pool: <psycopg2.pool.SimpleConnectionPool object at 0x7fdf4a2d2af0>
+09:04:49 PM: DEBUG [conexion.py:32] Creación pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x7fe37c173af0>
+09:04:49 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7fe37a674a40; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+09:04:49 PM: DEBUG [cursor_pool.py:11] Inicio de with método __enter__
+09:04:49 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7fe37a674b80; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+09:04:49 PM: DEBUG [cursor_pool.py:18] Se ejecuta método __exit__()
+09:04:49 PM: DEBUG [cursor_pool.py:22] Ocurrió una excepción: 'Usuarios' object has no attribute 'append'
+09:04:49 PM: DEBUG [conexion.py:51] Regresamos la conexion al pool: <connection object at 0x7fe37a674b80; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+09:04:49 PM: DEBUG [conexion.py:52] Estado del pool: <psycopg2.pool.SimpleConnectionPool object at 0x7fe37c173af0>
+09:07:10 PM: DEBUG [conexion.py:32] Creación pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x7f87af0e7af0>
+09:07:10 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7f87ad5e8a40; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+09:07:10 PM: DEBUG [cursor_pool.py:11] Inicio de with método __enter__
+09:07:10 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7f87ad5e8b80; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+09:07:10 PM: DEBUG [cursor_pool.py:18] Se ejecuta método __exit__()
+09:07:10 PM: DEBUG [cursor_pool.py:22] Ocurrió una excepción: name 'usuarios' is not defined
+09:07:10 PM: DEBUG [conexion.py:51] Regresamos la conexion al pool: <connection object at 0x7f87ad5e8b80; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+09:07:10 PM: DEBUG [conexion.py:52] Estado del pool: <psycopg2.pool.SimpleConnectionPool object at 0x7f87af0e7af0>
+09:07:52 PM: DEBUG [conexion.py:32] Creación pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x7fa3dbe80ac0>
+09:07:52 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7fa3da381a40; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+09:07:52 PM: DEBUG [cursor_pool.py:11] Inicio de with método __enter__
+09:07:52 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7fa3da381b80; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+09:07:52 PM: DEBUG [cursor_pool.py:18] Se ejecuta método __exit__()
+09:07:52 PM: DEBUG [cursor_pool.py:22] Ocurrió una excepción: 'tuple' object has no attribute 'append'
+09:07:52 PM: DEBUG [conexion.py:51] Regresamos la conexion al pool: <connection object at 0x7fa3da381b80; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+09:07:52 PM: DEBUG [conexion.py:52] Estado del pool: <psycopg2.pool.SimpleConnectionPool object at 0x7fa3dbe80ac0>
+09:08:11 PM: DEBUG [conexion.py:32] Creación pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x7f06bdbd3ac0>
+09:08:11 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7f06bc0d4a40; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+09:08:11 PM: DEBUG [cursor_pool.py:11] Inicio de with método __enter__
+09:08:11 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7f06bc0d4b80; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+09:08:11 PM: DEBUG [cursor_pool.py:18] Se ejecuta método __exit__()
+09:08:11 PM: DEBUG [cursor_pool.py:25] Commit de la transacción
+09:08:11 PM: DEBUG [conexion.py:51] Regresamos la conexion al pool: <connection object at 0x7f06bc0d4b80; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+09:08:11 PM: DEBUG [conexion.py:52] Estado del pool: <psycopg2.pool.SimpleConnectionPool object at 0x7f06bdbd3ac0>
+09:09:02 PM: DEBUG [conexion.py:32] Creación pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x7f9d7e685a90>
+09:09:02 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7f9d7cb86a40; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+09:09:02 PM: DEBUG [cursor_pool.py:11] Inicio de with método __enter__
+09:09:02 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7f9d7cb86b80; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+09:09:02 PM: DEBUG [cursor_pool.py:18] Se ejecuta método __exit__()
+09:09:02 PM: DEBUG [cursor_pool.py:25] Commit de la transacción
+09:09:02 PM: DEBUG [conexion.py:51] Regresamos la conexion al pool: <connection object at 0x7f9d7cb86b80; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+09:09:02 PM: DEBUG [conexion.py:52] Estado del pool: <psycopg2.pool.SimpleConnectionPool object at 0x7f9d7e685a90>
+09:09:02 PM: DEBUG [usuarios_dao.py:67] 
+            Id Usuario: 2, Username: loki, Nombre: Pedro,
+            Apellido: Najera, Email: pnajera@mail.com
+        
+09:10:24 PM: DEBUG [conexion.py:32] Creación pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x7f5489955a90>
+09:10:24 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7f5487e56a40; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+09:10:24 PM: DEBUG [cursor_pool.py:11] Inicio de with método __enter__
+09:10:24 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7f5487e56b80; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+09:10:24 PM: DEBUG [cursor_pool.py:18] Se ejecuta método __exit__()
+09:10:24 PM: DEBUG [cursor_pool.py:25] Commit de la transacción
+09:10:24 PM: DEBUG [conexion.py:51] Regresamos la conexion al pool: <connection object at 0x7f5487e56b80; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+09:10:24 PM: DEBUG [conexion.py:52] Estado del pool: <psycopg2.pool.SimpleConnectionPool object at 0x7f5489955a90>
+09:10:24 PM: DEBUG [usuarios_dao.py:67] 
+            Id Usuario: 2, Username: loki, Nombre: Pedro,
+            Apellido: Najera, Email: pnajera@mail.com
+        
+09:13:14 PM: DEBUG [conexion.py:32] Creación pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x7fb0e85f1a90>
+09:13:14 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7fb0e6af3a40; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+09:13:14 PM: DEBUG [cursor_pool.py:11] Inicio de with método __enter__
+09:13:14 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7fb0e6af3b80; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+09:13:14 PM: DEBUG [cursor_pool.py:18] Se ejecuta método __exit__()
+09:13:14 PM: DEBUG [cursor_pool.py:22] Ocurrió una excepción: name 'lista_usuarios' is not defined
+09:13:14 PM: DEBUG [conexion.py:51] Regresamos la conexion al pool: <connection object at 0x7fb0e6af3b80; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+09:13:14 PM: DEBUG [conexion.py:52] Estado del pool: <psycopg2.pool.SimpleConnectionPool object at 0x7fb0e85f1a90>
+09:14:14 PM: DEBUG [conexion.py:32] Creación pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x7fc09e1e7ac0>
+09:14:14 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7fc09c6e8a40; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+09:14:14 PM: DEBUG [cursor_pool.py:11] Inicio de with método __enter__
+09:14:14 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7fc09c6e8b80; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+09:14:14 PM: DEBUG [cursor_pool.py:18] Se ejecuta método __exit__()
+09:14:14 PM: DEBUG [cursor_pool.py:22] Ocurrió una excepción: name 'lista_usuarios' is not defined
+09:14:14 PM: DEBUG [conexion.py:51] Regresamos la conexion al pool: <connection object at 0x7fc09c6e8b80; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+09:14:14 PM: DEBUG [conexion.py:52] Estado del pool: <psycopg2.pool.SimpleConnectionPool object at 0x7fc09e1e7ac0>
+09:16:28 PM: DEBUG [conexion.py:32] Creación pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x7fc2e9535ac0>
+09:16:28 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7fc2e7a36a40; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+09:16:28 PM: DEBUG [cursor_pool.py:11] Inicio de with método __enter__
+09:16:28 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7fc2e7a36b80; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+09:16:28 PM: DEBUG [cursor_pool.py:18] Se ejecuta método __exit__()
+09:16:28 PM: DEBUG [cursor_pool.py:22] Ocurrió una excepción: name 'lista_usuarios' is not defined
+09:16:28 PM: DEBUG [conexion.py:51] Regresamos la conexion al pool: <connection object at 0x7fc2e7a36b80; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+09:16:28 PM: DEBUG [conexion.py:52] Estado del pool: <psycopg2.pool.SimpleConnectionPool object at 0x7fc2e9535ac0>
+09:22:56 PM: DEBUG [conexion.py:32] Creación pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x7fab89c96ac0>
+09:22:56 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7fab88197a40; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+09:22:56 PM: DEBUG [cursor_pool.py:11] Inicio de with método __enter__
+09:22:56 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7fab88197b80; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+09:22:56 PM: DEBUG [cursor_pool.py:18] Se ejecuta método __exit__()
+09:22:56 PM: DEBUG [cursor_pool.py:25] Commit de la transacción
+09:22:56 PM: DEBUG [conexion.py:51] Regresamos la conexion al pool: <connection object at 0x7fab88197b80; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+09:22:56 PM: DEBUG [conexion.py:52] Estado del pool: <psycopg2.pool.SimpleConnectionPool object at 0x7fab89c96ac0>
+09:22:56 PM: DEBUG [usuarios_dao.py:68] 
+            Id Usuario: 2, Username: loki, Nombre: Pedro,
+            Apellido: Najera, Email: pnajera@mail.com
+        
+09:24:06 PM: DEBUG [cursor_pool.py:11] Inicio de with método __enter__
+09:24:06 PM: DEBUG [conexion.py:32] Creación pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x7f2ff95bef70>
+09:24:06 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7f2ff7ac3a40; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+09:24:06 PM: DEBUG [cursor_pool.py:36] Listado de personas
+09:24:06 PM: DEBUG [cursor_pool.py:37] [(1, 'capso', 'Alan', 'Haedo', 'brufaus', 'haedoala@gmail.com', 'usuario'), (2, 'loki', 'Pedro', 'Najera', 'lola123', 'pnajera@mail.com', 'usuario')]
+09:24:06 PM: DEBUG [cursor_pool.py:18] Se ejecuta método __exit__()
+09:24:06 PM: DEBUG [cursor_pool.py:25] Commit de la transacción
+09:24:06 PM: DEBUG [conexion.py:51] Regresamos la conexion al pool: <connection object at 0x7f2ff7ac3a40; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+09:24:06 PM: DEBUG [conexion.py:52] Estado del pool: <psycopg2.pool.SimpleConnectionPool object at 0x7f2ff95bef70>
+09:27:50 PM: DEBUG [conexion.py:32] Creación pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x7f1ce7c96910>
+09:27:50 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7f1ce6197a40; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+09:27:50 PM: DEBUG [cursor_pool.py:11] Inicio de with método __enter__
+09:27:50 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7f1ce6197b80; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+09:27:50 PM: DEBUG [cursor_pool.py:18] Se ejecuta método __exit__()
+09:27:50 PM: DEBUG [cursor_pool.py:22] Ocurrió una excepción: tuple index out of range
+09:27:50 PM: DEBUG [conexion.py:51] Regresamos la conexion al pool: <connection object at 0x7f1ce6197b80; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+09:27:50 PM: DEBUG [conexion.py:52] Estado del pool: <psycopg2.pool.SimpleConnectionPool object at 0x7f1ce7c96910>
+09:28:08 PM: DEBUG [conexion.py:32] Creación pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x7f3310402970>
+09:28:08 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7f330e903a40; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+09:28:08 PM: DEBUG [cursor_pool.py:11] Inicio de with método __enter__
+09:28:08 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7f330e903b80; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+09:28:08 PM: DEBUG [cursor_pool.py:18] Se ejecuta método __exit__()
+09:28:08 PM: DEBUG [cursor_pool.py:25] Commit de la transacción
+09:28:08 PM: DEBUG [conexion.py:51] Regresamos la conexion al pool: <connection object at 0x7f330e903b80; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+09:28:08 PM: DEBUG [conexion.py:52] Estado del pool: <psycopg2.pool.SimpleConnectionPool object at 0x7f3310402970>
+09:28:08 PM: DEBUG [usuarios_dao.py:68] 
+            Id Usuario: 2, Username: loki, Nombre: Pedro,
+            Apellido: Najera, Email: pnajera@mail.com
+        
+09:28:51 PM: DEBUG [conexion.py:32] Creación pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x7f7300a91970>
+09:28:51 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7f72fef92a40; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+09:28:51 PM: DEBUG [cursor_pool.py:11] Inicio de with método __enter__
+09:28:51 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7f72fef92b80; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+09:28:51 PM: DEBUG [cursor_pool.py:18] Se ejecuta método __exit__()
+09:28:51 PM: DEBUG [cursor_pool.py:25] Commit de la transacción
+09:28:51 PM: DEBUG [conexion.py:51] Regresamos la conexion al pool: <connection object at 0x7f72fef92b80; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+09:28:51 PM: DEBUG [conexion.py:52] Estado del pool: <psycopg2.pool.SimpleConnectionPool object at 0x7f7300a91970>
+09:28:51 PM: DEBUG [usuarios_dao.py:68] 
+            Id Usuario: 2, Username: loki, Nombre: Pedro,
+            Apellido: Najera, Email: pnajera@mail.com
+        
+09:30:31 PM: DEBUG [conexion.py:32] Creación pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x7ff54a17d970>
+09:30:31 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7ff54867ea40; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+09:30:31 PM: DEBUG [cursor_pool.py:11] Inicio de with método __enter__
+09:30:31 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7ff54867eb80; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+09:30:31 PM: DEBUG [cursor_pool.py:18] Se ejecuta método __exit__()
+09:30:31 PM: DEBUG [cursor_pool.py:25] Commit de la transacción
+09:30:31 PM: DEBUG [conexion.py:51] Regresamos la conexion al pool: <connection object at 0x7ff54867eb80; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+09:30:31 PM: DEBUG [conexion.py:52] Estado del pool: <psycopg2.pool.SimpleConnectionPool object at 0x7ff54a17d970>
+09:30:31 PM: DEBUG [usuarios_dao.py:68] [<usuarios.Usuarios object at 0x7ff548431820>, <usuarios.Usuarios object at 0x7ff548431760>]
+09:33:26 PM: DEBUG [conexion.py:32] Creación pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x7fdeeb7abac0>
+09:33:26 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7fdee9caca40; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+09:33:26 PM: DEBUG [cursor_pool.py:11] Inicio de with método __enter__
+09:33:26 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7fdee9cacb80; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+09:33:26 PM: DEBUG [cursor_pool.py:18] Se ejecuta método __exit__()
+09:33:26 PM: DEBUG [cursor_pool.py:25] Commit de la transacción
+09:33:26 PM: DEBUG [conexion.py:51] Regresamos la conexion al pool: <connection object at 0x7fdee9cacb80; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+09:33:26 PM: DEBUG [conexion.py:52] Estado del pool: <psycopg2.pool.SimpleConnectionPool object at 0x7fdeeb7abac0>
+09:33:26 PM: DEBUG [usuarios_dao.py:68] [<usuarios.Usuarios object at 0x7fdee9a5c8b0>]
+09:33:41 PM: DEBUG [conexion.py:32] Creación pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x7f761fe8bac0>
+09:33:41 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7f761e38ca40; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+09:33:41 PM: DEBUG [cursor_pool.py:11] Inicio de with método __enter__
+09:33:41 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7f761e38cb80; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+09:33:41 PM: DEBUG [cursor_pool.py:18] Se ejecuta método __exit__()
+09:33:41 PM: DEBUG [cursor_pool.py:25] Commit de la transacción
+09:33:41 PM: DEBUG [conexion.py:51] Regresamos la conexion al pool: <connection object at 0x7f761e38cb80; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+09:33:41 PM: DEBUG [conexion.py:52] Estado del pool: <psycopg2.pool.SimpleConnectionPool object at 0x7f761fe8bac0>
+09:33:41 PM: DEBUG [usuarios_dao.py:68] [<usuarios.Usuarios object at 0x7f761e13c8b0>]
+09:35:13 PM: DEBUG [conexion.py:32] Creación pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x7f671ecc0dc0>
+09:35:13 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7f671e458b80; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+09:35:13 PM: DEBUG [cursor_pool.py:11] Inicio de with método __enter__
+09:35:13 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7f671e458cc0; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+09:35:13 PM: DEBUG [cursor_pool.py:18] Se ejecuta método __exit__()
+09:35:13 PM: DEBUG [cursor_pool.py:25] Commit de la transacción
+09:35:13 PM: DEBUG [conexion.py:51] Regresamos la conexion al pool: <connection object at 0x7f671e458cc0; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+09:35:13 PM: DEBUG [conexion.py:52] Estado del pool: <psycopg2.pool.SimpleConnectionPool object at 0x7f671ecc0dc0>
+09:35:13 PM: DEBUG [usuarios_dao.py:68] [<usuarios.Usuarios object at 0x7f671dfd8520>]
+09:35:27 PM: DEBUG [conexion.py:32] Creación pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x7f9ee1349ac0>
+09:35:27 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7f9edf84aa40; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+09:35:27 PM: DEBUG [cursor_pool.py:11] Inicio de with método __enter__
+09:35:27 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7f9edf84ab80; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+09:35:27 PM: DEBUG [cursor_pool.py:18] Se ejecuta método __exit__()
+09:35:27 PM: DEBUG [cursor_pool.py:25] Commit de la transacción
+09:35:27 PM: DEBUG [conexion.py:51] Regresamos la conexion al pool: <connection object at 0x7f9edf84ab80; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+09:35:27 PM: DEBUG [conexion.py:52] Estado del pool: <psycopg2.pool.SimpleConnectionPool object at 0x7f9ee1349ac0>
+09:35:27 PM: DEBUG [usuarios_dao.py:68] [<usuarios.Usuarios object at 0x7f9edf5fa8b0>]
+09:37:18 PM: DEBUG [conexion.py:32] Creación pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x7f09cae99af0>
+09:37:18 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7f09c939aa40; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+09:37:18 PM: DEBUG [cursor_pool.py:11] Inicio de with método __enter__
+09:37:18 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7f09c939ab80; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+09:37:18 PM: DEBUG [cursor_pool.py:18] Se ejecuta método __exit__()
+09:37:18 PM: DEBUG [cursor_pool.py:25] Commit de la transacción
+09:37:18 PM: DEBUG [conexion.py:51] Regresamos la conexion al pool: <connection object at 0x7f09c939ab80; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+09:37:18 PM: DEBUG [conexion.py:52] Estado del pool: <psycopg2.pool.SimpleConnectionPool object at 0x7f09cae99af0>
+09:37:18 PM: DEBUG [usuarios_dao.py:67] [<usuarios.Usuarios object at 0x7f09c914a880>]
+09:38:03 PM: DEBUG [conexion.py:32] Creación pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x7f3e77fc4af0>
+09:38:03 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7f3e764c5a40; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+09:38:03 PM: DEBUG [cursor_pool.py:11] Inicio de with método __enter__
+09:38:03 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7f3e764c5b80; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+09:38:03 PM: DEBUG [cursor_pool.py:18] Se ejecuta método __exit__()
+09:38:03 PM: DEBUG [cursor_pool.py:25] Commit de la transacción
+09:38:03 PM: DEBUG [conexion.py:51] Regresamos la conexion al pool: <connection object at 0x7f3e764c5b80; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+09:38:03 PM: DEBUG [conexion.py:52] Estado del pool: <psycopg2.pool.SimpleConnectionPool object at 0x7f3e77fc4af0>
+09:40:00 PM: DEBUG [conexion.py:32] Creación pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x7f28da22caf0>
+09:40:00 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7f28d872da40; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+09:40:00 PM: DEBUG [cursor_pool.py:11] Inicio de with método __enter__
+09:40:00 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7f28d872db80; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+09:40:00 PM: DEBUG [cursor_pool.py:18] Se ejecuta método __exit__()
+09:40:00 PM: DEBUG [cursor_pool.py:25] Commit de la transacción
+09:40:00 PM: DEBUG [conexion.py:51] Regresamos la conexion al pool: <connection object at 0x7f28d872db80; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+09:40:00 PM: DEBUG [conexion.py:52] Estado del pool: <psycopg2.pool.SimpleConnectionPool object at 0x7f28da22caf0>
+09:40:00 PM: DEBUG [usuarios_dao.py:67] Lista : [<usuarios.Usuarios object at 0x7f28d84dd880>]
+09:40:36 PM: DEBUG [conexion.py:32] Creación pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x7f9b34b51ac0>
+09:40:36 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7f9b33052a40; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+09:40:36 PM: DEBUG [cursor_pool.py:11] Inicio de with método __enter__
+09:40:36 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7f9b33052b80; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+09:40:36 PM: DEBUG [cursor_pool.py:18] Se ejecuta método __exit__()
+09:40:36 PM: DEBUG [cursor_pool.py:25] Commit de la transacción
+09:40:36 PM: DEBUG [conexion.py:51] Regresamos la conexion al pool: <connection object at 0x7f9b33052b80; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+09:40:36 PM: DEBUG [conexion.py:52] Estado del pool: <psycopg2.pool.SimpleConnectionPool object at 0x7f9b34b51ac0>
+09:41:18 PM: DEBUG [conexion.py:32] Creación pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x7fd4e4a49ac0>
+09:41:18 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7fd4e2f4aa40; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+09:41:18 PM: DEBUG [cursor_pool.py:11] Inicio de with método __enter__
+09:41:18 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7fd4e2f4ab80; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+09:41:18 PM: DEBUG [cursor_pool.py:18] Se ejecuta método __exit__()
+09:41:18 PM: DEBUG [cursor_pool.py:25] Commit de la transacción
+09:41:18 PM: DEBUG [conexion.py:51] Regresamos la conexion al pool: <connection object at 0x7fd4e2f4ab80; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+09:41:18 PM: DEBUG [conexion.py:52] Estado del pool: <psycopg2.pool.SimpleConnectionPool object at 0x7fd4e4a49ac0>
+09:42:54 PM: DEBUG [conexion.py:32] Creación pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x7f8097691af0>
+09:42:54 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7f8095b92a40; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+09:42:54 PM: DEBUG [cursor_pool.py:11] Inicio de with método __enter__
+09:42:54 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7f8095b92b80; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+09:42:54 PM: DEBUG [cursor_pool.py:18] Se ejecuta método __exit__()
+09:42:54 PM: DEBUG [cursor_pool.py:25] Commit de la transacción
+09:42:54 PM: DEBUG [conexion.py:51] Regresamos la conexion al pool: <connection object at 0x7f8095b92b80; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+09:42:54 PM: DEBUG [conexion.py:52] Estado del pool: <psycopg2.pool.SimpleConnectionPool object at 0x7f8097691af0>
+09:42:54 PM: DEBUG [usuarios_dao.py:69] [<usuarios.Usuarios object at 0x7f8095941940>]
+09:46:24 PM: DEBUG [cursor_pool.py:11] Inicio de with método __enter__
+09:46:24 PM: DEBUG [conexion.py:32] Creación pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x7fcea5a3b7c0>
+09:46:24 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7fcea5c8ca40; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+09:46:24 PM: DEBUG [cursor_pool.py:18] Se ejecuta método __exit__()
+09:46:24 PM: DEBUG [cursor_pool.py:25] Commit de la transacción
+09:46:24 PM: DEBUG [conexion.py:51] Regresamos la conexion al pool: <connection object at 0x7fcea5c8ca40; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+09:46:24 PM: DEBUG [conexion.py:52] Estado del pool: <psycopg2.pool.SimpleConnectionPool object at 0x7fcea5a3b7c0>
+09:46:24 PM: DEBUG [usuarios_dao.py:68] [<usuarios.Usuarios object at 0x7fcea5a3b850>, <usuarios.Usuarios object at 0x7fcea5a3b9a0>]
+09:46:24 PM: DEBUG [usuarios_dao.py:68] [<usuarios.Usuarios object at 0x7fcea5a3b850>, <usuarios.Usuarios object at 0x7fcea5a3b9a0>]
+09:47:18 PM: DEBUG [cursor_pool.py:11] Inicio de with método __enter__
+09:47:18 PM: DEBUG [conexion.py:32] Creación pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x7fcafadfb7c0>
+09:47:18 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7fcafb04ca40; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+09:47:18 PM: DEBUG [cursor_pool.py:18] Se ejecuta método __exit__()
+09:47:18 PM: DEBUG [cursor_pool.py:25] Commit de la transacción
+09:47:18 PM: DEBUG [conexion.py:51] Regresamos la conexion al pool: <connection object at 0x7fcafb04ca40; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+09:47:18 PM: DEBUG [conexion.py:52] Estado del pool: <psycopg2.pool.SimpleConnectionPool object at 0x7fcafadfb7c0>
+09:47:18 PM: DEBUG [usuarios_dao.py:68] [<usuarios.Usuarios object at 0x7fcafadfb850>, <usuarios.Usuarios object at 0x7fcafadfb9a0>]
+09:47:18 PM: DEBUG [usuarios_dao.py:68] [<usuarios.Usuarios object at 0x7fcafadfb850>, <usuarios.Usuarios object at 0x7fcafadfb9a0>]
+09:49:11 PM: DEBUG [cursor_pool.py:11] Inicio de with método __enter__
+09:49:11 PM: DEBUG [conexion.py:32] Creación pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x7f6294ebe730>
+09:49:11 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7f629510ca40; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+09:49:11 PM: DEBUG [cursor_pool.py:18] Se ejecuta método __exit__()
+09:49:11 PM: DEBUG [cursor_pool.py:22] Ocurrió una excepción: __init__() missing 2 required positional arguments: 'contrasenia' and 'email'
+09:49:11 PM: DEBUG [conexion.py:51] Regresamos la conexion al pool: <connection object at 0x7f629510ca40; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+09:49:11 PM: DEBUG [conexion.py:52] Estado del pool: <psycopg2.pool.SimpleConnectionPool object at 0x7f6294ebe730>
+09:50:05 PM: DEBUG [cursor_pool.py:11] Inicio de with método __enter__
+09:50:05 PM: DEBUG [conexion.py:32] Creación pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x7f67af8f27c0>
+09:50:05 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7f67afb42a40; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+09:50:05 PM: DEBUG [cursor_pool.py:18] Se ejecuta método __exit__()
+09:50:05 PM: DEBUG [cursor_pool.py:25] Commit de la transacción
+09:50:05 PM: DEBUG [conexion.py:51] Regresamos la conexion al pool: <connection object at 0x7f67afb42a40; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+09:50:05 PM: DEBUG [conexion.py:52] Estado del pool: <psycopg2.pool.SimpleConnectionPool object at 0x7f67af8f27c0>
+09:50:05 PM: DEBUG [usuarios_dao.py:68] [<usuarios.Usuarios object at 0x7f67af8f2850>, <usuarios.Usuarios object at 0x7f67af8f29a0>]
+09:50:05 PM: DEBUG [usuarios_dao.py:68] [<usuarios.Usuarios object at 0x7f67af8f2850>, <usuarios.Usuarios object at 0x7f67af8f29a0>]
+09:50:17 PM: DEBUG [cursor_pool.py:11] Inicio de with método __enter__
+09:50:17 PM: DEBUG [conexion.py:32] Creación pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x7fb6b634ef70>
+09:50:17 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7fb6b4855a40; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+09:50:17 PM: DEBUG [cursor_pool.py:36] Listado de personas
+09:50:17 PM: DEBUG [cursor_pool.py:37] [(1, 'capso', 'Alan', 'Haedo', 'brufaus', 'haedoala@gmail.com', 'usuario'), (2, 'loki', 'Pedro', 'Najera', 'lola123', 'pnajera@mail.com', 'usuario')]
+09:50:17 PM: DEBUG [cursor_pool.py:18] Se ejecuta método __exit__()
+09:50:17 PM: DEBUG [cursor_pool.py:25] Commit de la transacción
+09:50:17 PM: DEBUG [conexion.py:51] Regresamos la conexion al pool: <connection object at 0x7fb6b4855a40; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+09:50:17 PM: DEBUG [conexion.py:52] Estado del pool: <psycopg2.pool.SimpleConnectionPool object at 0x7fb6b634ef70>
+09:55:45 PM: DEBUG [conexion.py:32] Creación pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x7f35c18c3a90>
+09:55:45 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7f35bfdc4a40; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+09:55:45 PM: DEBUG [cursor_pool.py:11] Inicio de with método __enter__
+09:55:45 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7f35bfdc4b80; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+09:55:45 PM: DEBUG [cursor_pool.py:18] Se ejecuta método __exit__()
+09:55:45 PM: DEBUG [cursor_pool.py:25] Commit de la transacción
+09:55:45 PM: DEBUG [conexion.py:51] Regresamos la conexion al pool: <connection object at 0x7f35bfdc4b80; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+09:55:45 PM: DEBUG [conexion.py:52] Estado del pool: <psycopg2.pool.SimpleConnectionPool object at 0x7f35c18c3a90>
+09:55:45 PM: DEBUG [usuarios_dao.py:69] [<usuarios.Usuarios object at 0x7f35bfb73a00>, <usuarios.Usuarios object at 0x7f35bfb73940>]
+09:55:45 PM: DEBUG [usuarios_dao.py:69] [<usuarios.Usuarios object at 0x7f35bfb73a00>, <usuarios.Usuarios object at 0x7f35bfb73940>]
+09:58:49 PM: DEBUG [cursor_pool.py:11] Inicio de with método __enter__
+09:58:49 PM: DEBUG [conexion.py:32] Creación pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x7fd74e018f70>
+09:58:49 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7fd74c51ea40; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+09:58:49 PM: DEBUG [cursor_pool.py:36] Listado de personas
+09:58:49 PM: DEBUG [cursor_pool.py:37] [(1, 'capso', 'Alan', 'Haedo', 'brufaus', 'haedoala@gmail.com', 'usuario'), (2, 'loki', 'Pedro', 'Najera', 'lola123', 'pnajera@mail.com', 'usuario')]
+09:58:49 PM: DEBUG [cursor_pool.py:18] Se ejecuta método __exit__()
+09:58:49 PM: DEBUG [cursor_pool.py:25] Commit de la transacción
+09:58:49 PM: DEBUG [conexion.py:51] Regresamos la conexion al pool: <connection object at 0x7fd74c51ea40; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+09:58:49 PM: DEBUG [conexion.py:52] Estado del pool: <psycopg2.pool.SimpleConnectionPool object at 0x7fd74e018f70>
+10:01:25 PM: DEBUG [conexion.py:32] Creación pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x7f13ed8f8a90>
+10:01:25 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7f13ebdf9a40; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+10:01:25 PM: DEBUG [cursor_pool.py:11] Inicio de with método __enter__
+10:01:25 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7f13ebdf9b80; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+10:01:25 PM: DEBUG [cursor_pool.py:18] Se ejecuta método __exit__()
+10:01:25 PM: DEBUG [cursor_pool.py:25] Commit de la transacción
+10:01:25 PM: DEBUG [conexion.py:51] Regresamos la conexion al pool: <connection object at 0x7f13ebdf9b80; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+10:01:25 PM: DEBUG [conexion.py:52] Estado del pool: <psycopg2.pool.SimpleConnectionPool object at 0x7f13ed8f8a90>
+10:01:25 PM: DEBUG [usuarios_dao.py:69] [<usuarios.Usuarios object at 0x7f13ebbc7760>, <usuarios.Usuarios object at 0x7f13ebbc77c0>]
+10:01:25 PM: DEBUG [usuarios_dao.py:69] [<usuarios.Usuarios object at 0x7f13ebbc7760>, <usuarios.Usuarios object at 0x7f13ebbc77c0>]
+10:11:49 PM: DEBUG [cursor_pool.py:11] Inicio de with método __enter__
+10:11:49 PM: DEBUG [conexion.py:32] Creación pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x7f753351c2e0>
+10:11:49 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7f75336eca40; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+10:11:49 PM: DEBUG [cursor_pool.py:18] Se ejecuta método __exit__()
+10:11:49 PM: DEBUG [cursor_pool.py:25] Commit de la transacción
+10:11:49 PM: DEBUG [conexion.py:51] Regresamos la conexion al pool: <connection object at 0x7f75336eca40; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+10:11:49 PM: DEBUG [conexion.py:52] Estado del pool: <psycopg2.pool.SimpleConnectionPool object at 0x7f753351c2e0>
+10:11:49 PM: DEBUG [usuarios_dao.py:70] [<usuarios.Usuarios object at 0x7f753351c370>, <usuarios.Usuarios object at 0x7f753351c4c0>]
+10:11:49 PM: DEBUG [usuarios_dao.py:70] [<usuarios.Usuarios object at 0x7f753351c370>, <usuarios.Usuarios object at 0x7f753351c4c0>]
+10:12:44 PM: DEBUG [cursor_pool.py:11] Inicio de with método __enter__
+10:12:44 PM: DEBUG [conexion.py:32] Creación pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x7f77dfd437c0>
+10:12:44 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7f77dff94a40; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+10:12:44 PM: DEBUG [cursor_pool.py:18] Se ejecuta método __exit__()
+10:12:44 PM: DEBUG [cursor_pool.py:25] Commit de la transacción
+10:12:44 PM: DEBUG [conexion.py:51] Regresamos la conexion al pool: <connection object at 0x7f77dff94a40; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+10:12:44 PM: DEBUG [conexion.py:52] Estado del pool: <psycopg2.pool.SimpleConnectionPool object at 0x7f77dfd437c0>
+10:12:44 PM: DEBUG [usuarios_dao.py:70] [<usuarios.Usuarios object at 0x7f77dfd43850>, <usuarios.Usuarios object at 0x7f77dfd439a0>]
+10:12:44 PM: DEBUG [usuarios_dao.py:70] [<usuarios.Usuarios object at 0x7f77dfd43850>, <usuarios.Usuarios object at 0x7f77dfd439a0>]
+10:14:10 PM: DEBUG [cursor_pool.py:11] Inicio de with método __enter__
+10:14:10 PM: DEBUG [conexion.py:32] Creación pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x7f337091b7c0>
+10:14:10 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7f3370b6ca40; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+10:14:10 PM: DEBUG [cursor_pool.py:18] Se ejecuta método __exit__()
+10:14:10 PM: DEBUG [cursor_pool.py:22] Ocurrió una excepción: 'tuple' object has no attribute 'append'
+10:14:10 PM: DEBUG [conexion.py:51] Regresamos la conexion al pool: <connection object at 0x7f3370b6ca40; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+10:14:10 PM: DEBUG [conexion.py:52] Estado del pool: <psycopg2.pool.SimpleConnectionPool object at 0x7f337091b7c0>
+10:15:28 PM: DEBUG [cursor_pool.py:11] Inicio de with método __enter__
+10:15:28 PM: DEBUG [conexion.py:32] Creación pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x7fa5c9e387c0>
+10:15:28 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7fa5ca089a40; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+10:15:28 PM: DEBUG [cursor_pool.py:18] Se ejecuta método __exit__()
+10:15:28 PM: DEBUG [cursor_pool.py:25] Commit de la transacción
+10:15:28 PM: DEBUG [conexion.py:51] Regresamos la conexion al pool: <connection object at 0x7fa5ca089a40; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+10:15:28 PM: DEBUG [conexion.py:52] Estado del pool: <psycopg2.pool.SimpleConnectionPool object at 0x7fa5c9e387c0>
+10:15:28 PM: DEBUG [usuarios_dao.py:70] [<usuarios.Usuarios object at 0x7fa5c9e38850>, <usuarios.Usuarios object at 0x7fa5c9e389a0>]
+10:15:28 PM: DEBUG [usuarios_dao.py:70] [<usuarios.Usuarios object at 0x7fa5c9e38850>, <usuarios.Usuarios object at 0x7fa5c9e389a0>]
+10:23:32 PM: DEBUG [cursor_pool.py:11] Inicio de with método __enter__
+10:23:32 PM: DEBUG [conexion.py:32] Creación pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x7fdb6f72d670>
+10:23:32 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7fdb6f97ca40; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+10:23:32 PM: DEBUG [cursor_pool.py:18] Se ejecuta método __exit__()
+10:23:32 PM: DEBUG [cursor_pool.py:22] Ocurrió una excepción: name 'i' is not defined
+10:23:32 PM: DEBUG [conexion.py:51] Regresamos la conexion al pool: <connection object at 0x7fdb6f97ca40; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+10:23:32 PM: DEBUG [conexion.py:52] Estado del pool: <psycopg2.pool.SimpleConnectionPool object at 0x7fdb6f72d670>
+10:31:10 PM: DEBUG [conexion.py:32] Creación pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x7f9b7f101bb0>
+10:31:10 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7f9b7d601a40; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+10:31:10 PM: DEBUG [cursor_pool.py:11] Inicio de with método __enter__
+10:31:10 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7f9b7d601b80; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+10:31:10 PM: DEBUG [cursor_pool.py:18] Se ejecuta método __exit__()
+10:31:10 PM: DEBUG [cursor_pool.py:25] Commit de la transacción
+10:31:10 PM: DEBUG [conexion.py:51] Regresamos la conexion al pool: <connection object at 0x7f9b7d601b80; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+10:31:10 PM: DEBUG [conexion.py:52] Estado del pool: <psycopg2.pool.SimpleConnectionPool object at 0x7f9b7f101bb0>
+10:31:10 PM: DEBUG [usuarios_dao.py:67] [(1, 'capso', 'Alan', 'Haedo', 'brufaus', 'haedoala@gmail.com', 'usuario'), (2, 'loki', 'Pedro', 'Najera', 'lola123', 'pnajera@mail.com', 'usuario')]
+10:31:10 PM: DEBUG [usuarios_dao.py:67] [(1, 'capso', 'Alan', 'Haedo', 'brufaus', 'haedoala@gmail.com', 'usuario'), (2, 'loki', 'Pedro', 'Najera', 'lola123', 'pnajera@mail.com', 'usuario')]
+10:33:17 PM: DEBUG [conexion.py:32] Creación pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x7f4869866be0>
+10:33:17 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7f4867d68a40; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+10:33:17 PM: DEBUG [cursor_pool.py:11] Inicio de with método __enter__
+10:33:17 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7f4867d68b80; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+10:33:17 PM: DEBUG [cursor_pool.py:18] Se ejecuta método __exit__()
+10:33:17 PM: DEBUG [cursor_pool.py:25] Commit de la transacción
+10:33:17 PM: DEBUG [conexion.py:51] Regresamos la conexion al pool: <connection object at 0x7f4867d68b80; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+10:33:17 PM: DEBUG [conexion.py:52] Estado del pool: <psycopg2.pool.SimpleConnectionPool object at 0x7f4869866be0>
+10:33:17 PM: DEBUG [usuarios_dao.py:69] [[(1, 'capso', 'Alan', 'Haedo', 'brufaus', 'haedoala@gmail.com', 'usuario'), (2, 'loki', 'Pedro', 'Najera', 'lola123', 'pnajera@mail.com', 'usuario')]]
+10:45:04 PM: DEBUG [conexion.py:32] Creación pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x7fa8d572c9a0>
+10:45:04 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7fa8d3c2da40; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+10:45:04 PM: DEBUG [cursor_pool.py:11] Inicio de with método __enter__
+10:45:04 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7fa8d3c2db80; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+10:45:04 PM: DEBUG [cursor_pool.py:18] Se ejecuta método __exit__()
+10:45:04 PM: DEBUG [cursor_pool.py:25] Commit de la transacción
+10:45:04 PM: DEBUG [conexion.py:51] Regresamos la conexion al pool: <connection object at 0x7fa8d3c2db80; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+10:45:05 PM: DEBUG [conexion.py:52] Estado del pool: <psycopg2.pool.SimpleConnectionPool object at 0x7fa8d572c9a0>
+10:45:05 PM: DEBUG [usuarios_dao.py:71] [<usuarios.Usuarios object at 0x7fa8d39df8b0>, <usuarios.Usuarios object at 0x7fa8d39df7f0>]
+10:45:05 PM: DEBUG [usuarios_dao.py:71] [<usuarios.Usuarios object at 0x7fa8d39df8b0>, <usuarios.Usuarios object at 0x7fa8d39df7f0>]
+10:46:35 PM: DEBUG [conexion.py:32] Creación pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x7f431e7ba9d0>
+10:46:35 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7f431ccbba40; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+10:46:35 PM: DEBUG [cursor_pool.py:11] Inicio de with método __enter__
+10:46:35 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7f431ccbbb80; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+10:46:35 PM: DEBUG [cursor_pool.py:18] Se ejecuta método __exit__()
+10:46:35 PM: DEBUG [cursor_pool.py:25] Commit de la transacción
+10:46:35 PM: DEBUG [conexion.py:51] Regresamos la conexion al pool: <connection object at 0x7f431ccbbb80; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+10:46:35 PM: DEBUG [conexion.py:52] Estado del pool: <psycopg2.pool.SimpleConnectionPool object at 0x7f431e7ba9d0>
+10:46:35 PM: DEBUG [usuarios_dao.py:70] [<usuarios.Usuarios object at 0x7f431ca6f7c0>]
+10:46:48 PM: DEBUG [conexion.py:32] Creación pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x7f8bd7e66bb0>
+10:46:48 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7f8bd6367a40; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+10:46:48 PM: DEBUG [cursor_pool.py:11] Inicio de with método __enter__
+10:46:48 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7f8bd6367b80; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+10:46:48 PM: DEBUG [cursor_pool.py:18] Se ejecuta método __exit__()
+10:46:48 PM: DEBUG [cursor_pool.py:22] Ocurrió una excepción: list.append() takes exactly one argument (0 given)
+10:46:48 PM: DEBUG [conexion.py:51] Regresamos la conexion al pool: <connection object at 0x7f8bd6367b80; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+10:46:48 PM: DEBUG [conexion.py:52] Estado del pool: <psycopg2.pool.SimpleConnectionPool object at 0x7f8bd7e66bb0>
+10:47:03 PM: DEBUG [conexion.py:32] Creación pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x7f4b935bbbe0>
+10:47:03 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7f4b91abca40; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+10:47:03 PM: DEBUG [cursor_pool.py:11] Inicio de with método __enter__
+10:47:03 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7f4b91abcb80; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+10:47:03 PM: DEBUG [cursor_pool.py:18] Se ejecuta método __exit__()
+10:47:03 PM: DEBUG [cursor_pool.py:25] Commit de la transacción
+10:47:03 PM: DEBUG [conexion.py:51] Regresamos la conexion al pool: <connection object at 0x7f4b91abcb80; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+10:47:03 PM: DEBUG [conexion.py:52] Estado del pool: <psycopg2.pool.SimpleConnectionPool object at 0x7f4b935bbbe0>
+10:47:03 PM: DEBUG [usuarios_dao.py:70] [[(1, 'capso', 'Alan', 'Haedo', 'brufaus', 'haedoala@gmail.com', 'usuario'), (2, 'loki', 'Pedro', 'Najera', 'lola123', 'pnajera@mail.com', 'usuario')]]
+10:51:21 PM: DEBUG [conexion.py:32] Creación pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x7f44a05fdb80>
+10:51:21 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7f449eafea40; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+10:51:21 PM: DEBUG [cursor_pool.py:11] Inicio de with método __enter__
+10:51:21 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7f449eafeb80; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+10:51:21 PM: DEBUG [cursor_pool.py:18] Se ejecuta método __exit__()
+10:51:21 PM: DEBUG [cursor_pool.py:22] Ocurrió una excepción: __init__() missing 6 required positional arguments: 'username', 'nombre', 'apellido', 'contrasenia', 'email', and 'rol'
+10:51:21 PM: DEBUG [conexion.py:51] Regresamos la conexion al pool: <connection object at 0x7f449eafeb80; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+10:51:21 PM: DEBUG [conexion.py:52] Estado del pool: <psycopg2.pool.SimpleConnectionPool object at 0x7f44a05fdb80>
+10:52:53 PM: DEBUG [conexion.py:32] Creación pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x7fe3c3640b20>
+10:52:53 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7fe3c1b41a40; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+10:52:53 PM: DEBUG [cursor_pool.py:11] Inicio de with método __enter__
+10:52:53 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7fe3c1b41b80; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+10:52:53 PM: DEBUG [cursor_pool.py:18] Se ejecuta método __exit__()
+10:52:53 PM: DEBUG [cursor_pool.py:25] Commit de la transacción
+10:52:53 PM: DEBUG [conexion.py:51] Regresamos la conexion al pool: <connection object at 0x7fe3c1b41b80; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+10:52:53 PM: DEBUG [conexion.py:52] Estado del pool: <psycopg2.pool.SimpleConnectionPool object at 0x7fe3c3640b20>
+10:52:53 PM: DEBUG [usuarios_dao.py:72] [<usuarios.Usuarios object at 0x7fe3c18e7a90>]
+10:53:08 PM: DEBUG [conexion.py:32] Creación pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x7f49323deb20>
+10:53:08 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7f49308dfa40; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+10:53:08 PM: DEBUG [cursor_pool.py:11] Inicio de with método __enter__
+10:53:08 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7f49308dfb80; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+10:53:08 PM: DEBUG [cursor_pool.py:18] Se ejecuta método __exit__()
+10:53:08 PM: DEBUG [cursor_pool.py:25] Commit de la transacción
+10:53:08 PM: DEBUG [conexion.py:51] Regresamos la conexion al pool: <connection object at 0x7f49308dfb80; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+10:53:08 PM: DEBUG [conexion.py:52] Estado del pool: <psycopg2.pool.SimpleConnectionPool object at 0x7f49323deb20>
+10:53:08 PM: DEBUG [usuarios_dao.py:72] [<usuarios.Usuarios object at 0x7f4930685b50>, <usuarios.Usuarios object at 0x7f4930685a90>]
+10:53:08 PM: DEBUG [usuarios_dao.py:72] [<usuarios.Usuarios object at 0x7f4930685b50>, <usuarios.Usuarios object at 0x7f4930685a90>]
+10:53:46 PM: DEBUG [conexion.py:32] Creación pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x7f682d57aaf0>
+10:53:46 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7f682ba7ba40; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+10:53:46 PM: DEBUG [cursor_pool.py:11] Inicio de with método __enter__
+10:53:46 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7f682ba7bb80; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+10:53:46 PM: DEBUG [cursor_pool.py:18] Se ejecuta método __exit__()
+10:53:46 PM: DEBUG [cursor_pool.py:25] Commit de la transacción
+10:53:46 PM: DEBUG [conexion.py:51] Regresamos la conexion al pool: <connection object at 0x7f682ba7bb80; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+10:53:46 PM: DEBUG [conexion.py:52] Estado del pool: <psycopg2.pool.SimpleConnectionPool object at 0x7f682d57aaf0>
+10:53:46 PM: DEBUG [usuarios_dao.py:72] [<usuarios.Usuarios object at 0x7f682b82aa00>, <usuarios.Usuarios object at 0x7f682b82a940>]
+10:53:46 PM: DEBUG [usuarios_dao.py:72] [<usuarios.Usuarios object at 0x7f682b82aa00>, <usuarios.Usuarios object at 0x7f682b82a940>]
+10:54:36 PM: DEBUG [conexion.py:32] Creación pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x7faf9629eb20>
+10:54:36 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7faf9479fa40; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+10:54:36 PM: DEBUG [cursor_pool.py:11] Inicio de with método __enter__
+10:54:36 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7faf9479fb80; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+10:54:36 PM: DEBUG [cursor_pool.py:18] Se ejecuta método __exit__()
+10:54:36 PM: DEBUG [cursor_pool.py:25] Commit de la transacción
+10:54:36 PM: DEBUG [conexion.py:51] Regresamos la conexion al pool: <connection object at 0x7faf9479fb80; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+10:54:36 PM: DEBUG [conexion.py:52] Estado del pool: <psycopg2.pool.SimpleConnectionPool object at 0x7faf9629eb20>
+10:54:36 PM: DEBUG [usuarios_dao.py:72] [<usuarios.Usuarios object at 0x7faf94545b20>, <usuarios.Usuarios object at 0x7faf94545a60>]
+10:54:36 PM: DEBUG [usuarios_dao.py:72] [<usuarios.Usuarios object at 0x7faf94545b20>, <usuarios.Usuarios object at 0x7faf94545a60>]
+10:56:39 PM: DEBUG [conexion.py:32] Creación pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x7efc8ce52b20>
+10:56:39 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7efc8b353a40; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+10:56:39 PM: DEBUG [cursor_pool.py:11] Inicio de with método __enter__
+10:56:39 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7efc8b353b80; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+10:56:39 PM: DEBUG [cursor_pool.py:18] Se ejecuta método __exit__()
+10:56:39 PM: DEBUG [cursor_pool.py:25] Commit de la transacción
+10:56:39 PM: DEBUG [conexion.py:51] Regresamos la conexion al pool: <connection object at 0x7efc8b353b80; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+10:56:39 PM: DEBUG [conexion.py:52] Estado del pool: <psycopg2.pool.SimpleConnectionPool object at 0x7efc8ce52b20>
+10:56:39 PM: DEBUG [usuarios_dao.py:72] [<usuarios.Usuarios object at 0x7efc8b100a90>, <usuarios.Usuarios object at 0x7efc8b1009d0>]
+10:56:39 PM: DEBUG [usuarios_dao.py:72] [<usuarios.Usuarios object at 0x7efc8b100a90>, <usuarios.Usuarios object at 0x7efc8b1009d0>]
+10:59:22 PM: DEBUG [conexion.py:32] Creación pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x7fb4483a3af0>
+10:59:22 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7fb4468a4a40; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+10:59:22 PM: DEBUG [cursor_pool.py:11] Inicio de with método __enter__
+10:59:22 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7fb4468a4b80; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+10:59:22 PM: DEBUG [cursor_pool.py:18] Se ejecuta método __exit__()
+10:59:22 PM: DEBUG [cursor_pool.py:22] Ocurrió una excepción: 'Usuarios' object has no attribute 'append'
+10:59:22 PM: DEBUG [conexion.py:51] Regresamos la conexion al pool: <connection object at 0x7fb4468a4b80; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+10:59:22 PM: DEBUG [conexion.py:52] Estado del pool: <psycopg2.pool.SimpleConnectionPool object at 0x7fb4483a3af0>
+11:01:10 PM: DEBUG [conexion.py:32] Creación pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x7fa31efa1af0>
+11:01:10 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7fa31d4a2a40; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+11:01:10 PM: DEBUG [cursor_pool.py:11] Inicio de with método __enter__
+11:01:10 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7fa31d4a2b80; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+11:01:10 PM: DEBUG [cursor_pool.py:18] Se ejecuta método __exit__()
+11:01:10 PM: DEBUG [cursor_pool.py:25] Commit de la transacción
+11:01:10 PM: DEBUG [conexion.py:51] Regresamos la conexion al pool: <connection object at 0x7fa31d4a2b80; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+11:01:10 PM: DEBUG [conexion.py:52] Estado del pool: <psycopg2.pool.SimpleConnectionPool object at 0x7fa31efa1af0>
+11:01:10 PM: DEBUG [usuarios_dao.py:72] [<usuarios.Usuarios object at 0x7fa31d251a00>, <usuarios.Usuarios object at 0x7fa31d251940>]
+11:01:10 PM: DEBUG [usuarios_dao.py:72] [<usuarios.Usuarios object at 0x7fa31d251a00>, <usuarios.Usuarios object at 0x7fa31d251940>]
+11:02:02 PM: DEBUG [conexion.py:32] Creación pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x7f237673dbb0>
+11:02:02 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7f2374c3ea40; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+11:02:02 PM: DEBUG [cursor_pool.py:11] Inicio de with método __enter__
+11:02:02 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7f2374c3eb80; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+11:02:02 PM: DEBUG [cursor_pool.py:18] Se ejecuta método __exit__()
+11:02:02 PM: DEBUG [cursor_pool.py:25] Commit de la transacción
+11:02:02 PM: DEBUG [conexion.py:51] Regresamos la conexion al pool: <connection object at 0x7f2374c3eb80; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+11:02:02 PM: DEBUG [conexion.py:52] Estado del pool: <psycopg2.pool.SimpleConnectionPool object at 0x7f237673dbb0>
+11:02:02 PM: DEBUG [usuarios_dao.py:72] [[(1, 'capso', 'Alan', 'Haedo', 'brufaus', 'haedoala@gmail.com', 'usuario'), (2, 'loki', 'Pedro', 'Najera', 'lola123', 'pnajera@mail.com', 'usuario')]]
+11:02:59 PM: DEBUG [conexion.py:32] Creación pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x7f5e9ed90bb0>
+11:02:59 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7f5e9d292a40; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+11:02:59 PM: DEBUG [cursor_pool.py:11] Inicio de with método __enter__
+11:02:59 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7f5e9d292b80; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+11:02:59 PM: DEBUG [cursor_pool.py:18] Se ejecuta método __exit__()
+11:02:59 PM: DEBUG [cursor_pool.py:22] Ocurrió una excepción: list.append() takes no keyword arguments
+11:02:59 PM: DEBUG [conexion.py:51] Regresamos la conexion al pool: <connection object at 0x7f5e9d292b80; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+11:02:59 PM: DEBUG [conexion.py:52] Estado del pool: <psycopg2.pool.SimpleConnectionPool object at 0x7f5e9ed90bb0>
+11:04:54 PM: DEBUG [conexion.py:32] Creación pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x7fe1ca0a6a90>
+11:04:54 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7fe1c85a7a40; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+11:04:54 PM: DEBUG [cursor_pool.py:11] Inicio de with método __enter__
+11:04:54 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7fe1c85a7b80; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+11:04:54 PM: DEBUG [cursor_pool.py:18] Se ejecuta método __exit__()
+11:04:54 PM: DEBUG [cursor_pool.py:22] Ocurrió una excepción: list index out of range
+11:04:54 PM: DEBUG [conexion.py:51] Regresamos la conexion al pool: <connection object at 0x7fe1c85a7b80; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+11:04:54 PM: DEBUG [conexion.py:52] Estado del pool: <psycopg2.pool.SimpleConnectionPool object at 0x7fe1ca0a6a90>
+11:05:25 PM: DEBUG [conexion.py:32] Creación pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x7fbbda749a90>
+11:05:25 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7fbbd8c4aa40; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+11:05:25 PM: DEBUG [cursor_pool.py:11] Inicio de with método __enter__
+11:05:25 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7fbbd8c4ab80; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+11:05:25 PM: DEBUG [cursor_pool.py:18] Se ejecuta método __exit__()
+11:05:25 PM: DEBUG [cursor_pool.py:22] Ocurrió una excepción: list index out of range
+11:05:25 PM: DEBUG [conexion.py:51] Regresamos la conexion al pool: <connection object at 0x7fbbd8c4ab80; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+11:05:25 PM: DEBUG [conexion.py:52] Estado del pool: <psycopg2.pool.SimpleConnectionPool object at 0x7fbbda749a90>
+11:05:55 PM: DEBUG [conexion.py:32] Creación pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x7fea056a1a90>
+11:05:55 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7fea03ba2a40; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+11:05:55 PM: DEBUG [cursor_pool.py:11] Inicio de with método __enter__
+11:05:55 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7fea03ba2b80; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+11:05:55 PM: DEBUG [cursor_pool.py:18] Se ejecuta método __exit__()
+11:05:55 PM: DEBUG [cursor_pool.py:22] Ocurrió una excepción: list index out of range
+11:05:55 PM: DEBUG [conexion.py:51] Regresamos la conexion al pool: <connection object at 0x7fea03ba2b80; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+11:05:55 PM: DEBUG [conexion.py:52] Estado del pool: <psycopg2.pool.SimpleConnectionPool object at 0x7fea056a1a90>
+11:06:07 PM: DEBUG [conexion.py:32] Creación pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x7f1659f5eac0>
+11:06:07 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7f165845fa40; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+11:06:07 PM: DEBUG [cursor_pool.py:11] Inicio de with método __enter__
+11:06:07 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7f165845fb80; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+11:06:07 PM: DEBUG [cursor_pool.py:18] Se ejecuta método __exit__()
+11:06:07 PM: DEBUG [cursor_pool.py:22] Ocurrió una excepción: list index out of range
+11:06:07 PM: DEBUG [conexion.py:51] Regresamos la conexion al pool: <connection object at 0x7f165845fb80; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+11:06:07 PM: DEBUG [conexion.py:52] Estado del pool: <psycopg2.pool.SimpleConnectionPool object at 0x7f1659f5eac0>
+11:07:07 PM: DEBUG [conexion.py:32] Creación pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x7f9ce3f54bb0>
+11:07:07 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7f9ce2455a40; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+11:07:07 PM: DEBUG [cursor_pool.py:11] Inicio de with método __enter__
+11:07:07 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7f9ce2455b80; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+11:07:07 PM: DEBUG [cursor_pool.py:18] Se ejecuta método __exit__()
+11:07:07 PM: DEBUG [cursor_pool.py:25] Commit de la transacción
+11:07:07 PM: DEBUG [conexion.py:51] Regresamos la conexion al pool: <connection object at 0x7f9ce2455b80; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+11:07:07 PM: DEBUG [conexion.py:52] Estado del pool: <psycopg2.pool.SimpleConnectionPool object at 0x7f9ce3f54bb0>
+11:07:07 PM: DEBUG [usuarios_dao.py:72] [[(1, 'capso', 'Alan', 'Haedo', 'brufaus', 'haedoala@gmail.com', 'usuario'), (2, 'loki', 'Pedro', 'Najera', 'lola123', 'pnajera@mail.com', 'usuario')]]
+11:07:54 PM: DEBUG [conexion.py:32] Creación pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x7efe3a4bea00>
+11:07:54 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7efe3895ca40; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+11:07:54 PM: DEBUG [cursor_pool.py:11] Inicio de with método __enter__
+11:07:54 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7efe3895cb80; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+11:07:54 PM: DEBUG [cursor_pool.py:18] Se ejecuta método __exit__()
+11:07:54 PM: DEBUG [cursor_pool.py:25] Commit de la transacción
+11:07:54 PM: DEBUG [conexion.py:51] Regresamos la conexion al pool: <connection object at 0x7efe3895cb80; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+11:07:54 PM: DEBUG [conexion.py:52] Estado del pool: <psycopg2.pool.SimpleConnectionPool object at 0x7efe3a4bea00>
+11:09:05 PM: DEBUG [conexion.py:32] Creación pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x7f7862057a00>
+11:09:05 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7f78604dca40; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+11:09:05 PM: DEBUG [cursor_pool.py:11] Inicio de with método __enter__
+11:09:05 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7f78604dcb80; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+11:09:05 PM: DEBUG [cursor_pool.py:18] Se ejecuta método __exit__()
+11:09:05 PM: DEBUG [cursor_pool.py:25] Commit de la transacción
+11:09:05 PM: DEBUG [conexion.py:51] Regresamos la conexion al pool: <connection object at 0x7f78604dcb80; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+11:09:05 PM: DEBUG [conexion.py:52] Estado del pool: <psycopg2.pool.SimpleConnectionPool object at 0x7f7862057a00>
+11:14:15 PM: DEBUG [conexion.py:32] Creación pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x7f1898837940>
+11:14:15 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7f1896cbda40; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+11:14:15 PM: DEBUG [cursor_pool.py:11] Inicio de with método __enter__
+11:14:15 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7f1896cbdb80; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+11:14:15 PM: DEBUG [usuarios_dao.py:40] Usuario insertado: 
+            Id Usuario: 3, Username: fipi, Nombre: Brune,
+            Apellido: Haedo, Email: brune@gmail.com
+        
+11:14:15 PM: DEBUG [cursor_pool.py:18] Se ejecuta método __exit__()
+11:14:15 PM: DEBUG [cursor_pool.py:25] Commit de la transacción
+11:14:15 PM: DEBUG [conexion.py:51] Regresamos la conexion al pool: <connection object at 0x7f1896cbdb80; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+11:14:15 PM: DEBUG [conexion.py:52] Estado del pool: <psycopg2.pool.SimpleConnectionPool object at 0x7f1898837940>
+11:14:15 PM: DEBUG [menu.py:36] Usuarios insertados: 1
+11:17:07 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7f1896cbdb80; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+11:17:07 PM: DEBUG [cursor_pool.py:11] Inicio de with método __enter__
+11:17:07 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7f1896cbdcc0; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+11:17:07 PM: DEBUG [cursor_pool.py:18] Se ejecuta método __exit__()
+11:17:07 PM: DEBUG [cursor_pool.py:22] Ocurrió una excepción: la sintaxis de entrada no es válida para tipo integer: «gerente»
+LINE 1: ...'pipo12', rol='jgarcia@gmail.com' WHERE id_usuario='gerente'
+                                                              ^
+
+11:17:07 PM: DEBUG [conexion.py:51] Regresamos la conexion al pool: <connection object at 0x7f1896cbdcc0; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+11:17:07 PM: DEBUG [conexion.py:52] Estado del pool: <psycopg2.pool.SimpleConnectionPool object at 0x7f1898837940>
+11:19:43 PM: DEBUG [conexion.py:32] Creación pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x7fd38098c940>
+11:19:43 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7fd37ee2ba40; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+11:19:43 PM: DEBUG [cursor_pool.py:11] Inicio de with método __enter__
+11:19:43 PM: DEBUG [conexion.py:44] Conexión obtenida del pool: <connection object at 0x7fd37ee2bb80; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+11:19:43 PM: DEBUG [usuarios_dao.py:50] Usuario modificado con éxito: 
+            Id Usuario: 2, Username: pipo12, Nombre: Juan,
+            Apellido: Garcia, Email: jgarcia@gmail.com
+        
+11:19:43 PM: DEBUG [cursor_pool.py:18] Se ejecuta método __exit__()
+11:19:43 PM: DEBUG [cursor_pool.py:25] Commit de la transacción
+11:19:43 PM: DEBUG [conexion.py:51] Regresamos la conexion al pool: <connection object at 0x7fd37ee2bb80; dsn: 'user=yanina password=xxx dbname=laboratorio_db host=127.0.0.1 port=5432', closed: 0>
+11:19:43 PM: DEBUG [conexion.py:52] Estado del pool: <psycopg2.pool.SimpleConnectionPool object at 0x7fd38098c940>
+11:19:43 PM: DEBUG [menu.py:51] Usuario actualizado con éxito: 1
