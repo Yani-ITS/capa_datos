@@ -19,7 +19,8 @@ def mostrar_menu(): #muestra un menu de opciones que permite acceder a las disti
         
         if respuesta == 1:
             usuarios_lista= UsuarioDAO.seleccionar()
-            print(usuarios_lista)
+            for user in usuarios_lista:
+                print(user)
             mostrar_menu()
         
         elif respuesta == 2:

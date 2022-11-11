@@ -23,10 +23,9 @@ class UsuarioDAO:
                     cursor.execute(cls._SELECCIONAR)
                     registro= cursor.fetchall()
                     lista_usuarios=[]
-                    """for dato in registro:
-                        lista_usuario= Usuarios (dato[0], dato[1], dato[2], dato[3],
-                                            dato[4], dato[5], dato[6])"""
-                    lista_usuarios.append(registro)
+                    for dato in registro:
+                        lista_usuarios.append(Usuarios (dato[0], dato[1], dato[2], dato[3],
+                                            dato[4], dato[5], dato[6]))
                     return lista_usuarios
                     
             
